@@ -1,9 +1,9 @@
 terraform {
   backend "remote" {
-    organization = "BlackHut"
+    organization = "xxxxxxxx"
 
     workspaces {
-      name = "prattlab"
+      name = "xxxxxxxxx"
     }
   }
 }
